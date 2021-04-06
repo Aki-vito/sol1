@@ -197,3 +197,4 @@ for_window [class="^.*"] border pixel 4
 
 exec --no-startup-id $HOME/.config/i3/launch.sh
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec_always --no-startup-id feh --bg-scale $HOME/sol1/sol1/wallpapers/bg_13.jpg
