@@ -46,14 +46,17 @@
 					
 ### INSTALLATION:
 
-* Copy .config/i3 to .config
+1. Copy sol1/sol1/i3 to ~/.config
 ```
-$ cp .config/i3 .config
+$ cp -r sol1/sol1/i3 ~/.config
 ```
 	
-* Copy .config/polybar to .config
+2. Copy sol1/sol1/polybar to ~/.config
 ```
-$ cp .config/polybar to .config
-
-
+$ cp -r sol1/sol1/polybar ~/.config
 ```
+
+3. Copy sol1/sol1/picom.conf to ~/.config
+```
+$ cp sol1/sol1/picom.conf ~/.config
+` 
