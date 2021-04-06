@@ -50,8 +50,8 @@ module-margin-left = 0
 module-margin-right = 0
 
 font-0 = Bebas Neue:size=19;4
-font-1 = unifont:fontformat=truetype:size=28:antialias=false;0
-font-2 = siji:pixelsize=30;1
+font-1 = Roboto:size=28;1
+font-2 = Dancing Script:size=30;1
 font-3 = Righteous:size=21;5
 font-4 = Font Awesome:size=18;4
 font-5 = Iosevka Nerd Font:size=22;2
