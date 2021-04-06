@@ -1,5 +1,6 @@
 # Sol1
-## PREREQUISITES
+## GUIDE
+### PRE-INSTALLATIONS
 * i3
   * i3-gaps
   * i3-keyboard-layout
