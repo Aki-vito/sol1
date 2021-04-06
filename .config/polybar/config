@@ -104,25 +104,25 @@ content-background = #00112526
 type = custom/text
 content = ""
 content-font = 2
-content-foreground = #B0fff821
+content-foreground = #B0ffffff
 content-background = #B0ae21ff
 [module/k4_decor]
 type = custom/text
 content = ""
 content-font = 2
-content-foreground = #B0376587
+content-foreground = #B0ffffff
 content-background = #B0ffa30f
 [module/k5_decor]
 type = custom/text
 content = ""
 content-font = 2
-content-foreground = #b02a4d18
+content-foreground = #b0ffffff
 content-background = #b0000000
 [module/k6_decor]
 type = custom/text
 content = ""
 content-font = 2
-content-foreground = #B03fff14
+content-foreground = #B0ffffff
 content-background = #b0ff0d0d
 [module/k7_decor]
 type = custom/text
@@ -334,7 +334,7 @@ format-disconnected =
 
 [module/date]
 type = internal/date
-interval = 5
+interval = 1
 
 date = " %Y-%m-%d"
 
