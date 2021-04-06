@@ -54,12 +54,18 @@
 ```
 $ cp -r sol1/sol1/i3 ~/.config
 ```
-	
+* Make the launch.sh excutable
+	```
+	$ chmod +x launch
+	```	
 2. Copy sol1/sol1/polybar to ~/.config
 ```
 $ cp -r sol1/sol1/polybar ~/.config
 ```
-
+* Make the launch.sh excutable
+	```
+	$ chmod +x launch
+	```
 3. Copy sol1/sol1/picom.conf to ~/.config
 ```
 $ cp sol1/sol1/picom.conf ~/.config
