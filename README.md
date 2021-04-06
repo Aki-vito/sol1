@@ -59,4 +59,4 @@ $ cp -r sol1/sol1/polybar ~/.config
 3. Copy sol1/sol1/picom.conf to ~/.config
 ```
 $ cp sol1/sol1/picom.conf ~/.config
-` 
+``` 
