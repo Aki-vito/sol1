@@ -1,6 +1,8 @@
 # Sol_1
 ## GUIDE
-### PRE-INSTALLATIONS:
+### SCREENSHOTS:
+
+### PRE-INSTALLATION:
 * Install i3:
 	```
 	$ sudo dnf install i3	
@@ -42,7 +44,7 @@
 		$ sudo dnf install fontawesome-fonts.noarch
 		$ sudo cp fontlar/* /usr/share/fonts/
 		```
-	​	
+		
 					
 ### INSTALLATION:
 
