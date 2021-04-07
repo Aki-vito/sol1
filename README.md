@@ -5,6 +5,10 @@
 ![](https://github.com/Aki-vito/sol1/blob/main/sol1/Tue%20Apr%20%206%2007:01:02%20PM%20%2B03%202021.jpg)
 ![](https://github.com/Aki-vito/sol1/blob/main/sol1/Tue%20Apr%20%206%2007:02:00%20PM%20%2B03%202021.jpg)
 ### PRE-INSTALLATION:
+* Install feh:
+ 	```
+	$ sudo dnf install feh
+	```
 * Install i3:
 	```
 	$ sudo dnf install i3	
